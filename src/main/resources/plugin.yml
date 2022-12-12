@@ -1,0 +1,9 @@
+name: AutoEquip
+version: '${project.version}'
+main: me.floof.here.autoequip.AutoEquip
+api-version: 1.19
+authors: [ FloofCat ]
+description: Auto-Equip Armor by simply Right Clicking it!
+commands:
+  auto-equip:
+    description: Base Administrative Command
